@@ -1,19 +1,19 @@
 # CREATING NEW USERS
 	- sudo adduser
 # COMMON COMMANDS
-## * Run as Super user
+* ## Run as Super user
 	- sudo *command call*
-## * Look at package list
+* ## Look at package list
 	- cat /etc/apt/sources.list
-## * Look for updates
+* ## Look for updates
 	- sudo apt-get update
-## * Install updates
+* ## Install updates
 	- sudo apt-get upgrade
-## * Remove Uneeded Packages
+* ## Remove Uneeded Packages
 	- *sudo apt-get autoremove*
-## * Install sources
+* ## Install sources
 	- sudo apt-get install * (program) *
-## * User Information
+* ## User Information
 	- cat /etc/passwd
 		+ username:encryptpasswd:userid:groupid:userdesc:userhome:usershell
 ```		
