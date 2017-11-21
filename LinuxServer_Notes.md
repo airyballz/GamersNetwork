@@ -1,18 +1,18 @@
 # COMMON COMMANDS
-* Run as Super user
-	- *sudo (command call)*
-* Look at package list
+## * Run as Super user
+	- sudo * (command call) *
+## * Look at package list
 	- cat /etc/apt/sources.list
-* Look for updates
+## * Look for updates
 	- sudo apt-get update
-* Install updates
-	- *sudo apt-get upgrade*
+## * Install updates
+	- sudo apt-get upgrade
 * Remove Uneeded Packages
 	- *sudo apt-get autoremove*
 * Install sources
-	- *sudo apt-get install (program)*
+	- sudo apt-get install * (program) *
 * User Information
-	- *> cat /etc/passwd*
+	- > cat /etc/passwd
 		+ username:encryptpasswd:userid:groupid:userdesc:userhome:usershell
 ```		EXAMPLES:
 			vagrant:x:1000:1000:vagrant,,,:/home/vagrant:/bin/bash			
@@ -43,4 +43,3 @@
 
 # CREATING NEW USERS
 	* sudo adduser
-
