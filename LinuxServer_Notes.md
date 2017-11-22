@@ -1,5 +1,5 @@
 <table><thead><tr><th>__`APT-GET`__</th></tr></thead>
-<tbody><tr><td><br/>
+<tbody><tr><td><p>
 
 |Option     	| Description         	| Usage                         	|
 |:------------	|:---------------------	|:-------------------------------	|
@@ -7,7 +7,7 @@
 |  upgrade    	| Install All Updates 	| _`> sudo apt-get upgrade`_    	|
 |  autoremove 	| CleanPackage Files  	| _`> sudo apt-get autoremove`_ 	|
 
-</td></tr></tbody></table>
+</p></td></tr></tbody></table>
 
 | Description | Usage | Examples |
 |:---|:---|:---|
