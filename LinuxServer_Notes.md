@@ -1,6 +1,6 @@
 ## COMMON COMMANDS
 * Run as Super user
-	-  _`> sudo (program)`_
+	-  _`> sudo [program]`_
 * List Packages
 	- _`> cat /etc/apt/sources.list`_
 * Look for Updates
@@ -10,16 +10,16 @@
 * Remove Uneeded Packages
 	- _`> sudo apt-get autoremove`_
 * Install Sources
-	- _`> sudo apt-get install (program)`_
+	- _`> sudo apt-get install [program]`_
+		```ewfseafdvfsdvc```
 		```	
-		> sudo apt-get install apache2
-		> sudo apt-get install postgresql
-		> sudo apt-get install memcached
+		sudo apt-get install apache2
+		sudo apt-get install postgresql
+		sudo apt-get install memcached
 		```
 * User Information 
 	- _`> cat /etc/passwd   [username:encryptpasswd:userid:groupid:userdesc:userhome:usershell]`_<br/>	
 		```
-		> cat /etc/passwd
 		vagrant:x:1000:1000:vagrant,,,:/home/vagrant:/bin/bash		
 			username = vagrant
 			encrypt_passwd = x
@@ -46,4 +46,4 @@
 	- Memcache
 		+ memcached
 ## CREATING NEW USERS
-
+	- New User _`> sudo adduser`_<br/>
