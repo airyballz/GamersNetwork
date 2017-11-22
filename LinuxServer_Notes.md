@@ -1,5 +1,6 @@
 
-
+| 1 | 2 | 3|
+|:------------	|:---------------------	|:-------------------------------	|
 | Fruit         | Price         | Advantages         |
 | Bananas       | first line\   | first line\        |
 |               | next line     | next line          |
