@@ -1,35 +1,41 @@
 <table>
-	<tr>
-		<th>APT-GET</th>
-	</tr>
-	<tr><td>
-		<table>	
-			<thead>
-				<tr>
-					<th>Option</th>
-					<th>Description</th>
-					<th>Usage</th>
-				</tr>
-			</thead>
-			<tbody>
-				<tr>
-					<td>update</td>
-					<td>Search For Updates </td>
-					<td>_`> sudo apt-get update`_</td>
-				</tr>
-				<tr>
-					<td>upgrade</td>
-					<td>Install All Updates</td>
-					<td>_`> sudo apt-get upgrade`_</td>
-				</tr>
-				<tr>
-					<td>autoremove</td>
-					<td>CleanPackage Files</td>
-					<td>_`> sudo apt-get autoremove`_</td>
-				</tr>
-			</tbody>
-		</table>
-	</td></tr>
+	<thead>
+		<tr>
+			<th>APT-GET</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				<table>	
+					<thead>
+						<tr>
+							<th>Option</th>
+							<th>Description</th>
+							<th>Usage</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<td>update</td>
+							<td>Search For Updates </td>
+							<td>_`> sudo apt-get update`_</td>
+						</tr>
+						<tr>
+							<td>upgrade</td>
+							<td>Install All Updates</td>
+							<td>_`> sudo apt-get upgrade`_</td>
+						</tr>
+						<tr>
+							<td>autoremove</td>
+							<td>CleanPackage Files</td>
+							<td>_`> sudo apt-get autoremove`_</td>
+						</tr>
+					</tbody>
+				</table>
+			</td>
+		</tr>
+	</tbody>
 </table>
 
 
