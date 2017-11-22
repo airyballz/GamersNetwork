@@ -1,8 +1,12 @@
 * test
+| Description | Usage | Examples |
+|:---|:---|:---|
+| UPDATES | | |
+| | apt-get | Finds All Updates _`> sudo apt-get update`_ <br/> Install All Updates _`> sudo apt-get upgrade`_  <br/> Clean Package Files _`> sudo apt-get autoremove`_|
 
 | Description | Usage | Examples |
 |:---|:---|:---|
-|Run as Super user| __sudo__ _`<command name>`_ | _`sudo apt-get update`_ <br/> _`sudo apt-get upgrade`_ |
+|Super User| sudo  | Run Program SU _`sudo /path/to/my/program`_ |
 |Sources| /etc/apt/sources.list | List All Packages _`> cat /etc/apt/sources.list`_ |
 |Look For Updates| __sudo apt-get update__ |  |
 |Install All Updates| __sudo apt-get upgrade__|  |
