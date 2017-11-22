@@ -1,20 +1,13 @@
-<table>
-	<thead>
-		<tr>
-			<th>__`APT-GET`__</th>
-		</tr>
-	</thead>
-	<tbody>
-		<tr>
-			
+<table><thead><tr><th>__`APT-GET`__</th></tr></thead>
+<tbody><tr><td>
+
 |Option     	| Description         	| Usage                         	|
 |:------------	|:---------------------	|:-------------------------------	|
 |  update     	| Search For Updates  	| _`> sudo apt-get update`_     	|
 |  upgrade    	| Install All Updates 	| _`> sudo apt-get upgrade`_    	|
 |  autoremove 	| CleanPackage Files  	| _`> sudo apt-get autoremove`_ 	|
-		</tr>
-	</tbody>
-</table>
+
+</td></tr></tbody></table>
 
 | Description | Usage | Examples |
 |:---|:---|:---|
