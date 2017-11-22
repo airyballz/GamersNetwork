@@ -29,14 +29,14 @@
 
 <table>
 <tr><th>APT-GET</th></tr>
-<tr><td>
+<td>
 	
 |Option     	| Description         	| Usage                         	|
 |:------------	|:---------------------	|:-------------------------------	|
 |  update     	| Search For Updates  	| _`> sudo apt-get update`_     	|
 |  upgrade    	| Install All Updates 	| _`> sudo apt-get upgrade`_    	|
 |  autoremove 	| CleanPackage Files  	| _`> sudo apt-get autoremove`_ 	|
-</td></tr>
+</td>
 </table>
 
 | Description | Usage | Examples |
