@@ -1,20 +1,21 @@
 ## COMMON COMMANDS
 * Run as Super user
 	-  _`> sudo (program)`_
-* List Packages _`> cat /etc/apt/sources.list`_ <br/>
-
-* Look for Updates _`> sudo apt-get update`_ <br/>
-
-* Install Updates _`> sudo apt-get upgrade`_ <br/>
-
-* Remove Uneeded Packages _`> sudo apt-get autoremove`_ <br/>
-
-* Install Sources _`> sudo apt-get install (program)`_
-	```	
-	> sudo apt-get install apache2
-	> sudo apt-get install postgresql
-	> sudo apt-get install memcached
-	```
+* List Packages
+	- _`> cat /etc/apt/sources.list`_
+* Look for Updates
+	- _`> sudo apt-get update`_
+* Install Updates
+	- _`> sudo apt-get upgrade`_
+* Remove Uneeded Packages
+	- _`> sudo apt-get autoremove`_
+* Install Sources
+	- _`> sudo apt-get install (program)`_
+		```	
+		> sudo apt-get install apache2
+		> sudo apt-get install postgresql
+		> sudo apt-get install memcached
+		```
 * User Information _`> cat /etc/passwd`_
 	- _username:encryptpasswd:userid:groupid:userdesc:userhome:usershell_
 		```
