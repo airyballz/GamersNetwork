@@ -10,7 +10,7 @@
 * Remove Uneeded Packages
 	- _`> sudo apt-get autoremove`_
 * Install Sources
-	- _`> sudo apt-get install [program]`_
+	- _`> sudo apt-get install [program]`_<br/>
 		```ewfseafdvfsdvc```
 		```	
 		sudo apt-get install apache2
