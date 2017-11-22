@@ -21,7 +21,7 @@
 		```
 * User Information 
 	- _`> cat /etc/passwd   [username:encryptpasswd:userid:groupid:userdesc:userhome:usershell]`_<br/>	
-		```
+		```linux
 		vagrant:x:1000:1000:vagrant,,,:/home/vagrant:/bin/bash		
 			username = vagrant
 			encrypt_passwd = x
