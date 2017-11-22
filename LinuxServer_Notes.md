@@ -11,7 +11,6 @@
 
 * Install Sources _`> sudo apt-get install (program)`_
 	```	
-	examples: 
 	> sudo apt-get install apache2
 	> sudo apt-get install postgresql
 	> sudo apt-get install memcached
@@ -19,7 +18,6 @@
 * User Information _`> cat /etc/passwd`_
 	- _username:encryptpasswd:userid:groupid:userdesc:userhome:usershell_
 		```	
-		examples: 
 		vagrant:x:1000:1000:vagrant,,,:/home/vagrant:/bin/bash		
 			username = vagrant
 			encrypt_passwd = x
