@@ -17,7 +17,7 @@
 		> sudo apt-get install memcached
 		```
 * User Information 
-	- _`> cat /etc/passwd` username:encryptpasswd:userid:groupid:userdesc:userhome:usershell_<br/>	
+	- _`> cat /etc/passwd username:encryptpasswd:userid:groupid:userdesc:userhome:usershell`_<br/>	
 		```
 		> cat /etc/passwd
 		vagrant:x:1000:1000:vagrant,,,:/home/vagrant:/bin/bash		
