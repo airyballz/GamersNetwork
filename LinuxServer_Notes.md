@@ -1,9 +1,12 @@
 * test
 
+| Description | Usage Desc | Example | Example |
+|---|---|---|---|
+|Run as Super user| __sudo__ _`<command name>`_ | `sudo apt-get update` | sudo apt-get upgrade` |
 
-...|username|encryptpasswd|userid|groupid|userdesc|userhome|usershell|..
-...|---|:---:|---|---|---|---|---|..
-...|vagrant|x|1000|1000|*empty*|/home/vagrant|/bin/bash|..
+|username|encryptpasswd|userid|groupid|userdesc|userhome|usershell|
+|---|:---:|---|---|---|---|---|
+|vagrant|x|1000|1000|*empty*|/home/vagrant|/bin/bash|
 		
 ## COMMON COMMANDS
 * Run as Super user
