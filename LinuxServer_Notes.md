@@ -1,26 +1,23 @@
 ## COMMON COMMANDS
 * Run as Super user
-	- _> sudo_ __`<enter command name>`__ >
+	- __sudo__ _`<enter command name>`_ >
 * List Packages
-	- _> cat /etc/apt/sources.list_
+	- __cat /etc/apt/sources.list__
 * Look for Updates
-	- _> sudo apt-get update_
+	- __sudo apt-get update__
 * Install Updates
-	- _> sudo apt-get upgrade_
+	- __sudo apt-get upgrade__
 * Remove Uneeded Packages
-	- _> sudo apt-getautoremove_
+	- __sudo apt-getautoremove__
 * Install Sources
-	- _> sudo apt-get install_ __`<enter program name>`__<br/>
-		```
-		ewfseafdvfsdvc \n add
-		```
+	- __sudo apt-get install__ _`<enter program name>`_ <br/>
 		```	
 		sudo apt-get install apache2
 		sudo apt-get install postgresql
 		sudo apt-get install memcached
 		```
 * User Information 
-	- _`> cat /etc/passwd   [username:encryptpasswd:userid:groupid:userdesc:userhome:usershell]`_<br/>	
+	- __> cat /etc/passwd__ _`[username:encryptpasswd:userid:groupid:userdesc:userhome:usershell]`_ <br/>	
 		```linux
 		vagrant:x:1000:1000:vagrant,,,:/home/vagrant:/bin/bash		
 			username = vagrant
