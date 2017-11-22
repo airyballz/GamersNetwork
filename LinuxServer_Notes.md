@@ -1,7 +1,7 @@
 * test
 
 | Description | Usage | Examples |
-| UPDATES |
+| UPDATES | | |
 |:---|:---|:---|
 | | apt-get | Finds All Updates _`> sudo apt-get update`_ <br/> Install All Updates _`> sudo apt-get upgrade`_  <br/> Clean Package Files _`> sudo apt-get autoremove`_|
 
