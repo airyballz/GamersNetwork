@@ -1,6 +1,6 @@
 ## COMMON COMMANDS
-* Run as Super user _`> sudo (program)`_ <br/>
-
+* Run as Super user
+	-  _`> sudo (program)`_
 * List Packages _`> cat /etc/apt/sources.list`_ <br/>
 
 * Look for Updates _`> sudo apt-get update`_ <br/>
