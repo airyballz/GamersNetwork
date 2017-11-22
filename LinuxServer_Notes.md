@@ -1,5 +1,5 @@
 <table><thead><tr><th>__`APT-GET`__</th></tr></thead>
-<tbody><tr><td>
+<tbody><tr><td><br/>
 
 |Option     	| Description         	| Usage                         	|
 |:------------	|:---------------------	|:-------------------------------	|
