@@ -1,7 +1,7 @@
 ## COMMON COMMANDS
 * Run as Super user
 	-  _> sudo_ __`command name here`__<br/>
-	>  hello there
+	- >  hello there
 * List Packages
 	- _`> cat /etc/apt/sources.list`_
 * Look for Updates
