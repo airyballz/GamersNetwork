@@ -4,7 +4,7 @@
 |:---|:---|:---|:---|
 | apt-get | update | Finds All Updates | _`> sudo apt-get update`_ |
 | apt-get | upgrade | Install All Updates | _`> sudo apt-get upgrade`_|
-| apt-get | Clean Package Files | Clean Package Files | _`> sudo apt-get autoremove`_|
+| apt-get |autoremove | Clean Package Files | _`> sudo apt-get autoremove`_|
 
 | Description | Usage | Examples |
 |:---|:---|:---|
