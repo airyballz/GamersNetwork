@@ -14,17 +14,17 @@
 				<tr>
 					<td>update</td>
 					<td>Search For Updates </td>
-					<td>_`> sudo apt-get update`_ </td>
+					<td>_`> sudo apt-get update`_</td>
 				</tr>
 				<tr>
 					<td>upgrade</td>
 					<td>Install All Updates</td>
-					<td>_`> sudo apt-get upgrade`_ </td>
+					<td>_`> sudo apt-get upgrade`_</td>
 				</tr>
 				<tr>
 					<td>autoremove</td>
 					<td>CleanPackage Files</td>
-					<td_`> sudo apt-get autoremove`_ </td>
+					<td>_`> sudo apt-get autoremove`_</td>
 				</tr>		
 			</table>
 </table>
