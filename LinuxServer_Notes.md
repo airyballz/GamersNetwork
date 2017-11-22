@@ -18,7 +18,7 @@
 		```
 * User Information 
 	- _`> cat /etc/passwd`_<br/>
-		<small>username:encryptpasswd:userid:groupid:userdesc:userhome:usershell</small>
+		<i style="font-size='9px'">username:encryptpasswd:userid:groupid:userdesc:userhome:usershell</i>
 		```
 		> cat /etc/passwd
 		vagrant:x:1000:1000:vagrant,,,:/home/vagrant:/bin/bash		
