@@ -16,7 +16,7 @@
 	> sudo apt-get install postgresql
 	> sudo apt-get install memcached
 	```
-* User Information _`> cat /etc/passwd`_ <br/>
+* User Information _`> cat /etc/passwd`_
 	- _username:encryptpasswd:userid:groupid:userdesc:userhome:usershell_
 	```	
 	examples: 
