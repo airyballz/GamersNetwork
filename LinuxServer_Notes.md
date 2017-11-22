@@ -1,12 +1,14 @@
 
 <table>
-<tr><th>APT-GET</th></tr>
-<tr><td>
+	<tr>
+		<th>APT-GET</th>
+	</tr>
 	<tr>
 		<th>Option</th>
 		<th>Description</th>
 		<th>Usage</th>
 	</tr>
+	
 	<tr>
 		<td>update</td>
 		<td>Search For Updates </td>
@@ -22,7 +24,6 @@
 		<td>CleanPackage Files</td>
 		<td>_`> sudo apt-get autoremove`_</td>
 	</tr>		
-</td></tr>
 </table>
 
 <table>
