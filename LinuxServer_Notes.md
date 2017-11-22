@@ -18,7 +18,7 @@
 	```
 * User Information _`> cat /etc/passwd`_
 	- _username:encryptpasswd:userid:groupid:userdesc:userhome:usershell_
-	```	
+		```	
 		examples: 
 		vagrant:x:1000:1000:vagrant,,,:/home/vagrant:/bin/bash		
 			username = vagrant
@@ -36,7 +36,7 @@
 			userdesc = root
 			userhome = /root:
 			usershell = /bin/bash
-	```
+		```
 ## PACKAGES
 	- Apache HTTP Server
 		+ apache2
