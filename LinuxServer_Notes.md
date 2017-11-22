@@ -5,7 +5,7 @@
 		</tr>
 		<tr>
 			<td>
-				<table>
+				<table style="margin: 2px;">
 					<thead>
 						<tr>
 							<th align="left">Option</th>
