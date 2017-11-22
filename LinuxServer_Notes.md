@@ -8,7 +8,7 @@
 * Install Updates
 	- _`> sudo apt-get upgrade`_
 * Remove Uneeded Packages
-	- _`> sudo apt-get autoremove`_
+	- _`> sudo apt-get`_ **autoremove**
 * Install Sources
 	- _`> sudo apt-get install [program]`_<br/>
 		```
