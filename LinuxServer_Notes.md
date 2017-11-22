@@ -1,8 +1,10 @@
 * Updates / Install / Cleanup
 
-| Description | Usage | Examples |
+| Command | Usage | Examples |
 |:---|:---|:---|
-| | apt-get | Finds All Updates _`> sudo apt-get update`_ <br/> Install All Updates _`> sudo apt-get upgrade`_  <br/> Clean Package Files _`> sudo apt-get autoremove`_|
+| apt-get | Finds All Updates | _`> sudo apt-get update`_ |
+| apt-get | Install All Updates | _`> sudo apt-get upgrade`_|
+| apt-get | Clean Package Files | _`> sudo apt-get autoremove`_|
 
 | Description | Usage | Examples |
 |:---|:---|:---|
