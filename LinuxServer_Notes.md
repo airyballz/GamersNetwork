@@ -1,10 +1,10 @@
 ## COMMON COMMANDS
 * Run as Super user
 	- __sudo__ _`<command name>`_
-	```	
-	sudo apt-get update
-	sudo apt-get upgrade
-	```	
+		```	
+		sudo apt-get update
+		sudo apt-get upgrade
+		```	
 * List Packages
 	- __cat /etc/apt/sources.list__
 * Look for Updates
