@@ -1,7 +1,34 @@
 
 <table>
-<tr><th>APT-GET</th></tr>
-<tr><td>	
+	<tr>
+		<th>APT-GET</th>
+	</tr>
+	<tr>
+		<td>
+			<table>
+				<tr>
+					<th>Option</th>
+					<th>Description</th>
+					<th>Usage</th>
+				</tr>
+				<tr>
+					<td>update</td>
+					<td>Search For Updates </td>
+					<td>_`> sudo apt-get update`_ </td>
+				</tr>
+				<tr>
+					<td>upgrade</td>
+					<td>Install All Updates</td>
+					<td>_`> sudo apt-get upgrade`_ </td>
+				</tr>
+				<tr>
+					<td>autoremove</td>
+					<td>CleanPackage Files</td>
+					<td_`> sudo apt-get autoremove`_ </td>
+				</tr>		
+			</table>
+</table>
+	
 |Option     	| Description         	| Usage                         	|
 |:------------	|:---------------------	|:-------------------------------	|
 |  update     	| Search For Updates  	| _`> sudo apt-get update`_     	|
