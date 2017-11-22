@@ -36,27 +36,25 @@
 	</tbody>
 </table>
 
-...APT-GET                                          
-
 | Option       |     Description      | Usage                           |
 | :----------- | :------------------- | :------------------------------ |
 | update       |  Search For Updates  | _`> sudo apt-get update`_       |
 | upgrade      | Install All Updates  | _`> sudo apt-get upgrade`_      |
 | autoremove   |  CleanPackage Files  | _`> sudo apt-get autoremove`_   |
 
-| Description | Usage | Examples |
-|:---|:---|:---|
-|Super User| sudo  | Run Program SU _`sudo /path/to/my/program`_ |
-|Sources| /etc/apt/sources.list | List All Packages _`> cat /etc/apt/sources.list`_ |
-|Look For Updates| __sudo apt-get update__ |  |
-|Install All Updates| __sudo apt-get upgrade__|  |
-|Clean Package Files| __sudo apt-getautoremove__ |  |
-|Install Sources| __sudo apt-get install__ _`<program name>`_ | `sudo apt-get install apache2`<br/>`sudo apt-get install postgresql` <br/> `sudo apt-get install memcached` |
-|User Information|  |  |
+| Description         | Usage                                       | Examples                                                                                                    |
+|:--------------------|:--------------------------------------------|:------------------------------------------------------------------------------------------------------------|
+| Super User          | sudo                                        | Run Program SU _`sudo /path/to/my/program`_                                                                 |
+| Sources             | /etc/apt/sources.list                       | List All Packages _`> cat /etc/apt/sources.list`_                                                           |
+| Look For Updates    | __sudo apt-get update__                     |                                                                                                             |
+| Install All Updates | __sudo apt-get upgrade__                    |                                                                                                             |
+| Clean Package Files | __sudo apt-getautoremove__                  |                                                                                                             |
+| Install Sources     | __sudo apt-get install__ _`<program name>`_ | `sudo apt-get install apache2`<br/>`sudo apt-get install postgresql` <br/> `sudo apt-get install memcached` |
+| User Information    |                                             |                                                                                                             |
 
-|username|encryptpasswd|userid|groupid|userdesc|userhome|usershell|
-|---|:---:|---|---|---|---|---|
-|vagrant|x|1000|1000|*empty*|/home/vagrant|/bin/bash|
+| username | encryptpasswd | userid | groupid | userdesc | userhome      | usershell |
+|:---------|:-------------:|:-------|:--------|:---------|:--------------|:----------|
+| vagrant  |       x       | 1000   | 1000    | *empty*  | /home/vagrant | /bin/bash |
 		
 ## COMMON COMMANDS
 * Run as Super user
