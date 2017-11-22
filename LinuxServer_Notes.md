@@ -1,13 +1,17 @@
 | __APT-GET__ |
 |:----------- |
-	
+|```
+
+```
+|
+
 |Option     	| Description         	| Usage                         	|
 |:------------	|:---------------------	|:-------------------------------	|
 |  update     	| Search For Updates  	| _`> sudo apt-get update`_     	|
 |  upgrade    	| Install All Updates 	| _`> sudo apt-get upgrade`_    	|
 |  autoremove 	| CleanPackage Files  	| _`> sudo apt-get autoremove`_ 	|
 
-|             |
+
 
 <table><tr><th> <b>APT-GET</b> </th></tr>
 <tr><td>
