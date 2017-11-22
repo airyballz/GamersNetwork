@@ -11,7 +11,9 @@
 	- _`> sudo apt-get autoremove`_
 * Install Sources
 	- _`> sudo apt-get install [program]`_<br/>
-		```ewfseafdvfsdvc```
+		```
+		ewfseafdvfsdvc
+		```
 		```	
 		sudo apt-get install apache2
 		sudo apt-get install postgresql
