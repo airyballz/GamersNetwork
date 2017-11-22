@@ -1,3 +1,6 @@
+<style>
+#user-content-innertable {margin: 2px;}
+</style>
 <table>
 	<tbody>
 		<tr>
@@ -5,7 +8,7 @@
 		</tr>
 		<tr>
 			<td>
-				<table id="innertable" style="margin: 2px;">
+				<table id="innertable">
 					<thead>
 						<tr>
 							<th align="left">Option</th>
