@@ -12,7 +12,7 @@
 * Install Sources
 	- _`> sudo apt-get install [program]`_<br/>
 		```
-		ewfseafdvfsdvc
+		ewfseafdvfsdvc \n add
 		```
 		```	
 		sudo apt-get install apache2
