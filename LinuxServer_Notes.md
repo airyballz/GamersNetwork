@@ -1,6 +1,7 @@
 <style>
 #user-content-innertable {margin: 2px;}
 </style>
+
 <table>
 	<tbody>
 		<tr>
