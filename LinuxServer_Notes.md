@@ -3,7 +3,7 @@
 | Description | Usage | Examples |
 |:---|:---|:---|
 |Run as Super user| __sudo__ _`<command name>`_ | _`sudo apt-get update`_ <br/> _`sudo apt-get upgrade`_ |
-|List All Packages| __cat /etc/apt/sources.list__ |  |
+|Sources| /etc/apt/sources.list | _`List All Packages cat /etc/apt/sources.list`_ |
 |Look For Updates| __sudo apt-get update__ |  |
 |Install All Updates| __sudo apt-get upgrade__|  |
 |Clean Package Files| __sudo apt-getautoremove__ |  |
