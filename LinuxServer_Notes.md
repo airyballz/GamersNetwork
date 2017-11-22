@@ -1,6 +1,5 @@
-<h2>APT-GET</h2>
 
-| 		| Option     	| Description         	| Usage                         	|
+| APT-GET 	| Option     	| Description         	| Usage                         	|
 |:---------	|:------------	|:---------------------	|:-------------------------------	|
 |		|  update     	| Search For Updates  	| _`> sudo apt-get update`_     	|
 |		|  upgrade    	| Install All Updates 	| _`> sudo apt-get upgrade`_    	|
