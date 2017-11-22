@@ -1,7 +1,3 @@
-<style>
-#user-content-innertable {margin: 2px;}
-</style>
-
 <table>
 	<tbody>
 		<tr>
@@ -39,6 +35,15 @@
 		</tr>
 	</tbody>
 </table>
+
+|                      APT-GET                                          |
+|:----------------------------------------------------------------------|
+
+| Option       |     Description      | Usage                           |
+| :----------- | :------------------- | :------------------------------ |
+| update       |  Search For Updates  | _`> sudo apt-get update`_       |
+| upgrade      | Install All Updates  | _`> sudo apt-get upgrade`_      |
+| autoremove   |  CleanPackage Files  | _`> sudo apt-get autoremove`_   |
 
 | Description | Usage | Examples |
 |:---|:---|:---|
