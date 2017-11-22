@@ -7,7 +7,9 @@
 |Look For Updates| __sudo apt-get update__ |  |
 |Install All Updates| __sudo apt-get upgrade__|  |
 |Clean Package Files| __sudo apt-getautoremove__ |  |
-|Install Sources| __sudo apt-get install__ _`<program name>`_ | + `sudo apt-get install apache2` + `sudo apt-get install postgresql` |
+|Install Sources| __sudo apt-get install__ _`<program name>`_ | `sudo apt-get install apache2` <br/>
+								`sudo apt-get install postgresql` <br/>
+								`sudo apt-get install memcached` |
 |User Information|  |  |
 
 |username|encryptpasswd|userid|groupid|userdesc|userhome|usershell|
