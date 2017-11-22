@@ -1,6 +1,6 @@
 ## COMMON COMMANDS
 * Run as Super user
-	- __sudo__ _`<command name>`_
+	- __sudo__ _`<command name>`_ <br/>
 	  `	sudo apt-get update`<br/>
 	  `	sudo apt-get upgrade`<br/>
 * List Packages
