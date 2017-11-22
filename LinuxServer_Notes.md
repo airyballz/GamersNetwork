@@ -11,33 +11,32 @@
 
 * Install Sources _`> sudo apt-get install (program)`_ <br/>
 	```	
-	examples: 	> sudo apt-get install apache2
-				> sudo apt-get install postgresql
-				> sudo apt-get install memcached
+	examples: 
+	> sudo apt-get install apache2
+	> sudo apt-get install postgresql
+	> sudo apt-get install memcached
 	```
-
 * User Information _`> cat /etc/passwd`_ <br/>
 	- _username:encryptpasswd:userid:groupid:userdesc:userhome:usershell_
 	```	
 	examples: 
-				vagrant:x:1000:1000:vagrant,,,:/home/vagrant:/bin/bash		
-					username = vagrant
-					encrypt_passwd = x
-					userid = 1000
-					groupid = 1000
-					user_desc = *empty*
-					userhome = /home/vagrant
-					usershell = /bin/bash
-				root:x:0:0:root:/root:/bin/bash
-					username = root
-					encryptpasswd = *x*
-					userid = 0
-					groupid = 0
-					userdesc = root
-					userhome = /root:
-					usershell = /bin/bash
+	vagrant:x:1000:1000:vagrant,,,:/home/vagrant:/bin/bash		
+		username = vagrant
+		encrypt_passwd = x
+		userid = 1000
+		groupid = 1000
+		user_desc = *empty*
+		userhome = /home/vagrant
+		usershell = /bin/bash
+	root:x:0:0:root:/root:/bin/bash
+		username = root
+		encryptpasswd = *x*
+		userid = 0
+		groupid = 0
+		userdesc = root
+		userhome = /root:
+		usershell = /bin/bash
 	```
-
 ## PACKAGES
 	- Apache HTTP Server
 		+ apache2
