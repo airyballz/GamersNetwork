@@ -1,6 +1,6 @@
 * test
-...
 
+...
 |username|encryptpasswd|userid|groupid|userdesc|userhome|usershell|
 |---|:---:|---|---|---|---|---|
 |vagrant|x|1000|1000|*empty*|/home/vagrant|/bin/bash| .
