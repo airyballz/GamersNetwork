@@ -1,10 +1,10 @@
 <h2>APT-GET</h2>
 
-| Command 	| Option     	| Description         	| Usage                         	|
+| 		| Option     	| Description         	| Usage                         	|
 |:---------	|:------------	|:---------------------	|:-------------------------------	|
-| apt-get 	| update     	| Search For Updates  	| _`> sudo apt-get update`_     	|
-| apt-get 	| upgrade    	| Install All Updates 	| _`> sudo apt-get upgrade`_    	|
-| apt-get 	| autoremove 	| CleanPackage Files  	| _`> sudo apt-get autoremove`_ 	|
+|		|  update     	| Search For Updates  	| _`> sudo apt-get update`_     	|
+|		|  upgrade    	| Install All Updates 	| _`> sudo apt-get upgrade`_    	|
+| 		| autoremove 	| CleanPackage Files  	| _`> sudo apt-get autoremove`_ 	|
 
 
 | Description | Usage | Examples |
