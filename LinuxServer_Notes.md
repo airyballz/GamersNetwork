@@ -1,3 +1,8 @@
+
+username|encryptpasswd|userid|groupid|userdesc|userhome|usershell
+---|---|---|---|---|---|---
+vagrant|x|1000|1000|*empty*|/home/vagrant|/bin/bash
+		
 ## COMMON COMMANDS
 * Run as Super user
 	- __sudo__ _`<command name>`_
@@ -18,11 +23,7 @@
 		+ `sudo apt-get install memcached`
 * User Information 
 	- __> cat /etc/passwd__ _`[username:encryptpasswd:userid:groupid:userdesc:userhome:usershell]`_
-		+ vagrant:x:1000:1000:vagrant,,,:/home/vagrant:/bin/bash <br/>		
-		| username | encryptpasswd | userid | groupid | userdesc | userhome | usershell |
-		| -------- | ------------- | ------ | ------- | -------- | -------- | --------- |
-		| vagrant | x | 1000 | 1000 | *empty* | /home/vagrant | /bin/bash |
-		
+		+ vagrant:x:1000:1000:vagrant,,,:/home/vagrant:/bin/bash <br/>				
 		```
 		vagrant:x:1000:1000:vagrant,,,:/home/vagrant:/bin/bash		
 			username = vagrant
