@@ -1,8 +1,8 @@
 ## COMMON COMMANDS
 * Run as Super user
 	- __sudo__ _`<command name>`_
-	+`sudo apt-get update`
-	+`sudo apt-get upgrade`
+		+ `sudo apt-get update`
+		+ `sudo apt-get upgrade`
 * List Packages
 	- __cat /etc/apt/sources.list__
 * Look for Updates
@@ -13,9 +13,9 @@
 	- __sudo apt-getautoremove__
 * Install Sources
 	- __sudo apt-get install__ _`<program name>`_
-	+`sudo apt-get install apache2`
-	+`sudo apt-get install postgresql`
-	+`sudo apt-get install memcached`
+		+ `sudo apt-get install apache2`
+		+ `sudo apt-get install postgresql`
+		+ `sudo apt-get install memcached`
 * User Information 
 	- __> cat /etc/passwd__ _`[username:encryptpasswd:userid:groupid:userdesc:userhome:usershell]`_
 		```linux
