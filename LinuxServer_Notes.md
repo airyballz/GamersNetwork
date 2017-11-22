@@ -5,7 +5,7 @@
 		</tr>
 		<tr>
 			<td>
-				<table style="margin: 2px;">
+				<table id="innertable" style="margin: 2px;">
 					<thead>
 						<tr>
 							<th align="left">Option</th>
