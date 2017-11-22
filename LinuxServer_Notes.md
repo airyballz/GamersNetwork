@@ -18,7 +18,10 @@
 		+ `sudo apt-get install memcached`
 * User Information 
 	- __> cat /etc/passwd__ _`[username:encryptpasswd:userid:groupid:userdesc:userhome:usershell]`_
-		```linux
+		```ruby
+		required test
+		```
+		```
 		vagrant:x:1000:1000:vagrant,,,:/home/vagrant:/bin/bash		
 			username = vagrant
 			encrypt_passwd = x
