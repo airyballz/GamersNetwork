@@ -1,4 +1,4 @@
-<table><thead><tr><th>__`APT-GET`__</th></tr></thead>
+<table><thead><tr><th> <b>APT-GET</b> </th></tr></thead>
 <tbody><tr><td><p>
 
 |Option     	| Description         	| Usage                         	|
