@@ -1,16 +1,16 @@
 ## COMMON COMMANDS
 * Run as Super user
-	- > _> sudo_ __`command name here`__ >
+	- _> sudo_ __`<enter command name>`__ >
 * List Packages
-	- _`> cat /etc/apt/sources.list`_
+	- _> cat /etc/apt/sources.list_
 * Look for Updates
-	- _`> sudo apt-get update`_
+	- _> sudo apt-get update_
 * Install Updates
-	- _`> sudo apt-get upgrade`_
+	- _> sudo apt-get upgrade_
 * Remove Uneeded Packages
-	- _`> sudo apt-getautoremove`_
+	- _> sudo apt-getautoremove_
 * Install Sources
-	- _`> sudo apt-get install`_ **`[program]`**<br/>
+	- _> sudo apt-get install_ __`<enter program name>`__<br/>
 		```
 		ewfseafdvfsdvc \n add
 		```
