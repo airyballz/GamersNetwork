@@ -36,13 +36,14 @@
 			userhome = /root:
 			usershell = /bin/bash
 		```
+* New User _`> sudo adduser`_
+<br/>
 ## PACKAGES
-	- Apache HTTP Server
-		+ apache2
-	- PostgreSQL
-		+ postgresql
-	- Memcache
-		+ memcached
+- Apache HTTP Server
+	+ apache2
+- PostgreSQL
+	+ postgresql
+- Memcache
+	+ memcached
 ## CREATING NEW USERS
-	- sudo adduser
 
