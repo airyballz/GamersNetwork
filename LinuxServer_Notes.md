@@ -1,7 +1,7 @@
 <table>
 	<tbody>
 		<tr>
-			<th> <b>APT-GET</b> </th>
+			<th> <b>APT-GET</b> from webgui</th>
 		</tr>
 		<tr>
 			<td>
