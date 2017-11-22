@@ -1,8 +1,9 @@
-
 <table>
 	<tr>
 		<th>APT-GET</th>
 	</tr>
+</table>
+<table>	
 	<tr>
 		<th>Option</th>
 		<th>Description</th>
