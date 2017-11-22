@@ -13,9 +13,9 @@
 	- __sudo apt-getautoremove__
 * Install Sources
 	- __sudo apt-get install__ _`<program name>`_<br/>
-	`udo apt-get install apache2`<br/>
-	`udo apt-get install postgresql`<br/>
-	`udo apt-get install memcached`<br/>
+	+`sudo apt-get install apache2`<br/>
+	+`sudo apt-get install postgresql`<br/>
+	+`sudo apt-get install memcached`<br/>
 * User Information 
 	- __> cat /etc/passwd__ _`[username:encryptpasswd:userid:groupid:userdesc:userhome:usershell]`_
 		```linux
