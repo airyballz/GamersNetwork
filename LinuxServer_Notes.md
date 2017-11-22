@@ -10,7 +10,7 @@
 	examples: username:encryptpasswd:userid:groupid:userdesc:userhome:usershell
 		vagrant:x:1000:1000:vagrant,,,:/home/vagrant:/bin/bash			
 			username = vagrant
-			encrypt_passwd = x
+			encryptpasswd = x
 			userid = 1000
 			groupid = 1000
 			user_desc = *empty*
