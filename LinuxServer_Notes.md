@@ -1,54 +1,21 @@
 <table>
 	<thead>
 		<tr>
-			<th>APT-GET</th>
+			<th>__`APT-GET`__</th>
 		</tr>
 	</thead>
 	<tbody>
 		<tr>
 			<td>
-				<table>	
-					<thead>
-						<tr>
-							<th>Option</th>
-							<th>Description</th>
-							<th>Usage</th>
-						</tr>
-					</thead>
-					<tbody>
-						<tr>
-							<td>update</td>
-							<td>Search For Updates </td>
-							<td>_`> sudo apt-get update`_</td>
-						</tr>
-						<tr>
-							<td>upgrade</td>
-							<td>Install All Updates</td>
-							<td>_`> sudo apt-get upgrade`_</td>
-						</tr>
-						<tr>
-							<td>autoremove</td>
-							<td>CleanPackage Files</td>
-							<td>_`> sudo apt-get autoremove`_</td>
-						</tr>
-					</tbody>
-				</table>
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-
-<table>
-<thead><tr><th>APT-GET</th></tr></thead>
-<tbody><tr><td>
 	
 |Option     	| Description         	| Usage                         	|
 |:------------	|:---------------------	|:-------------------------------	|
 |  update     	| Search For Updates  	| _`> sudo apt-get update`_     	|
 |  upgrade    	| Install All Updates 	| _`> sudo apt-get upgrade`_    	|
 |  autoremove 	| CleanPackage Files  	| _`> sudo apt-get autoremove`_ 	|
-</td></tr></tbody>
+			</td>
+		</tr>
+	</tbody>
 </table>
 
 | Description | Usage | Examples |
