@@ -1,4 +1,4 @@
-<table>ssssdfdfdfdsd7fsdghdfdvsd
+<table>
 	<tbody>
 		<tr>
 			<th> <b>APT-GET</b> from webgui</th>
