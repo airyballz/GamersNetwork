@@ -4,8 +4,7 @@
 		```	
 		sudo apt-get update
 		sudo apt-get upgrade
-		`` ```	
-* List Packages
+		``` * List Packages
 	- __cat /etc/apt/sources.list__
 * Look for Updates
 	- __sudo apt-get update__
