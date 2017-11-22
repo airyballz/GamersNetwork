@@ -1,13 +1,30 @@
-<table><tr><th> <b>APT-GET</b> </th></tr>
+<table><tbody><tr><th> <b>APT-GET</b> </th></tr>
 <tr><td>
-
-|Option     	| Description         	| Usage                         	|
-|:------------	|:---------------------	|:-------------------------------	|
-|  update     	| Search For Updates  	| _`> sudo apt-get update`_     	|
-|  upgrade    	| Install All Updates 	| _`> sudo apt-get upgrade`_    	|
-|  autoremove 	| CleanPackage Files  	| _`> sudo apt-get autoremove`_ 	|
-
-</td></tr></table>
+<table>
+<thead>
+<tr>
+<th align="left">Option</th>
+<th align="left">Description</th>
+<th align="left">Usage</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">update</td>
+<td align="left">Search For Updates</td>
+<td align="left"><em><code>&gt; sudo apt-get update</code></em></td>
+</tr>
+<tr>
+<td align="left">upgrade</td>
+<td align="left">Install All Updates</td>
+<td align="left"><em><code>&gt; sudo apt-get upgrade</code></em></td>
+</tr>
+<tr>
+<td align="left">autoremove</td>
+<td align="left">CleanPackage Files</td>
+<td align="left"><em><code>&gt; sudo apt-get autoremove</code></em></td>
+</tr></tbody></table>
+</td></tr></tbody></table>
 
 | Description | Usage | Examples |
 |:---|:---|:---|
