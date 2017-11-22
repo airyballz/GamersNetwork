@@ -2,7 +2,7 @@
 
 | Description | Usage Desc | Examples |
 |:---|:---|:---|
-|Run as Super user| __sudo__ _`<command name>`_ | _`sudo apt-get update`_ ` ` _`sudo apt-get upgrade`_ |
+|Run as Super user| __sudo__ _`<command name>`_ | _`sudo apt-get update`_ <br/> _`sudo apt-get upgrade`_ |
 
 |username|encryptpasswd|userid|groupid|userdesc|userhome|usershell|
 |---|:---:|---|---|---|---|---|
