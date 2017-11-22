@@ -9,7 +9,7 @@
 
 * Remove Uneeded Packages _`> sudo apt-get autoremove`_ <br/>
 
-* Install Sources _`> sudo apt-get install (program)`_ <br/>
+* Install Sources _`> sudo apt-get install (program)`_
 	```	
 	examples: 
 	> sudo apt-get install apache2
