@@ -27,6 +27,8 @@
 					<td>_`> sudo apt-get autoremove`_</td>
 				</tr>		
 			</table>
+		</td>
+	</tr>
 </table>
 	
 |Option     	| Description         	| Usage                         	|
